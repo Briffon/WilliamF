@@ -4,20 +4,27 @@
     flex-direction: row;
     justify-content: space-between;
     align-items: center;
-    padding: .5rem;
+    padding: 1rem;
 
     img{
-        width: 100px;
-        height: 100px;
+        width: 80px;
+        height: 80px;
         border-radius:50%;
     }
 
     ul{
-        border: 2px solid red;
         width: 50%;
         display: flex;
         flex-direction: row;
         justify-content: space-evenly;
 
     }
+
+    li{
+        font-size: 24px;
+    }
+}
+
+.active{
+     color: #3B7080;
 }
