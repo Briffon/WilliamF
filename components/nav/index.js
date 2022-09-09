@@ -13,7 +13,7 @@ function Nav() {
                 <li>Contact</li>
             </ul>
 
-            <img src="" alt="William francoletti" />
+            <img src='/assets/willy.jpeg' alt="William Francoletti" />
         </AppBar>
 
     )
