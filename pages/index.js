@@ -9,14 +9,28 @@ export default function Home() {
 
       <section>
         <h3>Building your way to success!</h3>
-        <img src="/assets/team2.jpg" alt="teamwork" />
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <div>
+          <img src="/assets/team2.jpg" alt="teamwork" />
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing
+            sed do eiusmod tempor incididunt ut labore et aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco
+            laboris nisi ut aliquip ex ea commodo consequat.
+          </p>
+        </div>
       </section>
 
       <section>
-        <h3>Building your way to success!</h3>
-        <img src="/assets/team3.jpg" alt="teamwork" />
-        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.</p>
+        <h3>I strive for greatness!</h3>
+        <div>
+          <img src="/assets/team3.jpg" alt="teamwork" />
+          <p>
+            Lorem ipsum dolor sit amet, consectetur adipiscing
+            sed do eiusmod tempor incididunt ut labore et aliqua.
+            Ut enim ad minim veniam, quis nostrud exercitation ullamco
+            laboris nisi ut aliquip ex ea commodo consequat.
+          </p>
+        </div>
       </section>
     </div>
   )
